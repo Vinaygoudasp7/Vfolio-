@@ -1,0 +1,1 @@
+Vfolio presents the work of an AI & Computer Vision developer building intelligent, interactive, and modern digital solutions. This portfolio showcases projects in AI, Computer Vision, and web development, highlighting advanced problem-solving skills, technical expertise, and creative innovation.
